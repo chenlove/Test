@@ -1,11 +1,11 @@
 <?php
-echo 'good!!!!';
+
 echo 'hhhhhhhh';
 
 echo "google!";
 
 echo 'testB';
 
-echo '33';
-echo 'hi:';
+echo ' i am testB';
+
 ?>
