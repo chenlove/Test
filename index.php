@@ -6,4 +6,6 @@ echo "google!";
 
 echo 'testB';
 
+echo ' i am testB';
+
 ?>
