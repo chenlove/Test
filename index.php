@@ -2,6 +2,4 @@
 
 echo 'hhhhhhhh';
 
-echo "google!";
-
 ?>
